@@ -1,6 +1,7 @@
 ## Hi 👋, I'm biscuitbc.
 
 ### About me:
+- second-year undergraduate @ZJU, Double Majoring in Computer Science and Mathematics.
 
 <!--
 **biscuitbc/biscuitbc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
